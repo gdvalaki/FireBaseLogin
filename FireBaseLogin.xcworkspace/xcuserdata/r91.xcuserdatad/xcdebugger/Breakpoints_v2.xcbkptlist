@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9F46F3A3-4981-45F4-8C73-D8AF02AFAB90"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35688C99-3E8D-482D-80D0-2F86076F0D69"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FireBaseLogin/ForgotPasswordController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5B80D0D-6B02-4C0D-A540-7117D0391FDB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FireBaseLogin/HomeTapbarController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "HomeTapbarController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F5B80D0D-6B02-4C0D-A540-7117D0391FDB - 634ad9679796a3a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FireBaseLogin.HomeTapbarController.array.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "FireBaseLogin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/r91/Desktop/FireBaseLogin/FireBaseLogin/HomeTapbarController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "F5B80D0D-6B02-4C0D-A540-7117D0391FDB - f7185395b0f48dc4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FireBaseLogin.HomeTapbarController.array.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "FireBaseLogin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/r91/Desktop/FireBaseLogin/FireBaseLogin/HomeTapbarController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "F5B80D0D-6B02-4C0D-A540-7117D0391FDB - 9b7de35f3e25daf5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FireBaseLogin.HomeTapbarController.array.modify : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "FireBaseLogin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/r91/Desktop/FireBaseLogin/FireBaseLogin/HomeTapbarController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "F5B80D0D-6B02-4C0D-A540-7117D0391FDB - 70f70d8388c0e8b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FireBaseLogin.HomeTapbarController.array.modify : Swift.Array&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "FireBaseLogin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/r91/Desktop/FireBaseLogin/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "F5B80D0D-6B02-4C0D-A540-7117D0391FDB - 16ca18d3db5fed6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FireBaseLogin.HomeTapbarController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; FireBaseLogin.HomeTapbarController"
+                  moduleName = "FireBaseLogin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/r91/Desktop/FireBaseLogin/FireBaseLogin/HomeTapbarController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "F5B80D0D-6B02-4C0D-A540-7117D0391FDB - 28f7081dc15d86d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FireBaseLogin.HomeTapbarController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;FireBaseLogin.HomeTapbarController&gt;"
+                  moduleName = "FireBaseLogin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/r91/Desktop/FireBaseLogin/FireBaseLogin/HomeTapbarController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
